@@ -1,0 +1,11 @@
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\bin\Debug\net9.0\DDL_Unit-test_CICD_Wiki.deps.json
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\bin\Debug\net9.0\DDL_Unit-test_CICD_Wiki.dll
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\bin\Debug\net9.0\DDL_Unit-test_CICD_Wiki.pdb
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.AssemblyInfoInputs.cache
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.AssemblyInfo.cs
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.csproj.CoreCompileInputs.cache
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.dll
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\refint\DDL_Unit-test_CICD_Wiki.dll
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\DDL_Unit-test_CICD_Wiki.pdb
+D:\Programming\C#\DLL_Unit-test_CICD_Wiki_\DDL_Unit-test_CICD_Wiki\obj\Debug\net9.0\ref\DDL_Unit-test_CICD_Wiki.dll

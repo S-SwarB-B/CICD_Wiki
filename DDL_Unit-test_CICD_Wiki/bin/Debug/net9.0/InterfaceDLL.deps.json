@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InterfaceDLL/1.0.0": {
+        "dependencies": {
+          "DDL_Unit-test_CICD_Wiki": "1.0.0"
+        },
+        "runtime": {
+          "InterfaceDLL.dll": {}
+        }
+      },
+      "DDL_Unit-test_CICD_Wiki/1.0.0": {
+        "runtime": {
+          "DDL_Unit-test_CICD_Wiki.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InterfaceDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDL_Unit-test_CICD_Wiki/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
